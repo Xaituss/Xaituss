@@ -3,9 +3,10 @@
 <h4 align="center">Idiomas: Português y Español</h4>
 
 - 🌱 actualmente sigo aprendiendo sobre **Base De Datos Y Inteligencia Artificial**
-- Me Gusta Siempre Estar Ampliando Mis Conocimientos Cada Dia Mas!!
 
-- 💻 Algunos Frameworks que use son **FastApi, Flask, CustomTkinter, Tkinter,pyQt5,OpenCV**
+- 💭 Me Gusta Siempre Estar Ampliando Mis Conocimientos Cada Dia Mas!!
+
+- 💻 Algunos Frameworks que use son **FastApi, Flask, CustomTkinter, Tkinter, pyQt5**
 
 - 📫 Mi email es **santiago_gabriel@gmail.com**
 
